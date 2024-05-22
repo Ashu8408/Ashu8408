@@ -2,11 +2,11 @@
 <h1 align="center">Hi 😉👋, I'm Ashutosh Jaiswal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [p1](p1 link)
+- 🔭 I’m currently working on (p1 link)
 
 - 🌱 I’m currently learning **React Js, Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [portfolio link]
 
 - 💬 Ask me about **C, C++, React JS, Data Structures**
 
