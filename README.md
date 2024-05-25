@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js, Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Ashu8408/AJ-PORTFOLIO" target="_blank">[Portfolio Link]</a>
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-bay-pi-53.vercel.app/" target="_blank">[Portfolio Link]</a>
 
 - 💬 Ask me about **C, C++, React JS, Data Structures**
 
