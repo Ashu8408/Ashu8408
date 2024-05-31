@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **React Js, Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-bay-pi-53.vercel.app/" target="_blank">[Portfolio Link]</a>
+- 👨‍💻 All of my projects are available at **<a href="https://my-portfolio-bay-pi-53.vercel.app/" target="_blank">[Portfolio Link]</a>**
 
 - 💬 Ask me about **C, C++, React JS, Data Structures**
 
-- 📫 How to reach me **ashjnavj@gmail.com**
+- 📫 How to reach me **[ashjnavj@gmail.com.com](mailto:ashjnavj@gmail.com)**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/17QisbI-Ulo41pBm_tmFGbHcxfXGYDcIA?usp=drive_link" target="_blank">[Resume Link]</a>
+- 📄 Know about my experiences **<a href="https://drive.google.com/drive/folders/17QisbI-Ulo41pBm_tmFGbHcxfXGYDcIA?usp=drive_link" target="_blank">[Resume Link]</a>**
 
 - ⚡ Fun fact-- **I forge ingenious solutions, conquering challenges with effortless precision.**
 
