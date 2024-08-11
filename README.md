@@ -1,4 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 <h1 align="center">Hi 😉👋, I'm Ashutosh Jaiswal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -31,6 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu8408&show_icons=true&locale=en&layout=compact" alt="ashu8408" /></p>
 
+
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashu8408&show_icons=true&locale=en" alt="ashu8408" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu8408&" alt="ashu8408" /></p>
+
+![](https://komarev.com/ghpvc/?username=Ashu8408&style=flat-square)
