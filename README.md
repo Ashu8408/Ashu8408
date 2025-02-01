@@ -5,11 +5,11 @@
 
 <!--- 🔭 I’m currently working on (p1 link)-->
 
-- 🌱 I’m currently learning **React Js, Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at **<a href="https://my-portfolio-bay-pi-53.vercel.app/" target="_blank">[Portfolio Link]</a>**
 
-- 💬 Ask me about **C, C++, React JS, Data Structures**
+- 💬 Ask me about **C, C++, React JS, Rails**
 
 - 📫 How to reach me **[ashjnavj@gmail.com.com](mailto:ashjnavj@gmail.com)**
 
