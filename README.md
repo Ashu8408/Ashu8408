@@ -32,9 +32,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/ruby.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/graphql.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/ProgrammingLanguages/ruby.svg" alt="ruby" width="40" height="40"/> </a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/BackendDevelopment/graphql.svg" alt="graphql" width="40" height="40"/> </a>
   
 <!--  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/rails.svg" alt="git" width="40" height="40"/> </a> -->
 </p>
@@ -42,8 +42,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu8408&show_icons=true&locale=en&layout=compact" alt="ashu8408" /></p>
 
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashu8408&show_icons=true&locale=en" alt="ashu8408" /></p>-->
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashu8408&show_icons=true&locale=en" alt="ashu8408" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu8408&" alt="ashu8408" /></p>
+[![An image of @ashu8408's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashu8408)](https://holopin.io/@ashu8408)
 
-<!--![](https://komarev.com/ghpvc/?username=Ashu8408&style=flat-square)
+<p>[![An image of @ashu8408's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashu8408)](https://holopin.io/@ashu8408)</p>
+
+
+<!--![](https://komarev.com/ghpvc/?username=Ashu8408&style=flat-square)-->
