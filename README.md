@@ -51,3 +51,6 @@
 
 
 <!--![](https://komarev.com/ghpvc/?username=Ashu8408&style=flat-square)-->
+
+
+[![An image of @ashu8408's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashu8408)](https://holopin.io/@ashu8408)
