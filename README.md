@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at **<a href="https://my-portfolio-bay-pi-53.vercel.app/" target="_blank">[Portfolio Link]</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://aj-portfolio-gilt.vercel.app/" target="_blank">[Portfolio Link]</a>**
 
-- 💬 Ask me about **C, C++, React JS, Rails**
+- 💬 Ask me about **C, C++, Python, React JS, Node JS, Ruby on Rils, MongoDB, GraphQL, Data Science**
 
-- 📫 How to reach me **[ashjnavj@gmail.com.com](mailto:ashjnavj@gmail.com)**
+- 📫 How to reach me **[ashutosh.jobsapply@gmail.com](mailto:ashutosh.jobsapply@gmail.com)**
 
 - 📄 Know about my experiences **<a href="https://drive.google.com/drive/folders/17QisbI-Ulo41pBm_tmFGbHcxfXGYDcIA?usp=drive_link" target="_blank">[Resume Link]</a>**
 
